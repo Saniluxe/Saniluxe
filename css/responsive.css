@@ -21,8 +21,8 @@
   }
   
   #header.triangle .header-logo a img { 
-    margin-top: 25px;
-    width: 100px; 
+    margin-top: -40px;
+    width: 175px; 
   }
 
   #header.classic .header-logo { top: 90px; }

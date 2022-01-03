@@ -1065,8 +1065,8 @@ button:hover {
 
 #header.triangle .header-logo a>img {
   position: relative;
-  margin-top: 36px;
-  width: 153px;
+  margin-top: -55px;
+  width: 250px;
   z-index: 5;
 }
 
