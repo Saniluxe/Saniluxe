@@ -1149,6 +1149,24 @@ button:hover {
      -moz-background-size: cover;
           background-size: cover;
 }
+#header.header-title.Yachts { 
+  background: url(../img/yachtsheader.jpg) no-repeat center; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+          background-size: cover;
+}
+#header.header-title.Properties { 
+  background: url(../img/Our-Fleet-Property-Header.jpg) no-repeat center; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+          background-size: cover;
+}
+#header.header-title.Private-Jets { 
+  background: url(../img/privatejetsheader.jpg) no-repeat center; 
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+          background-size: cover;
+}
 
 #header .header-title-inner {
   position: absolute;
