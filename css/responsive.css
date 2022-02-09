@@ -786,17 +786,17 @@
   /* -------------------------------------------------------------------------
     BANNER
   ------------------------------------------------------------------------- */
-  .triangle #banner {  height: 1140px !important; }
+  .triangle #banner {  height: 400px !important; }
 
-  .triangle #banner .banner-bg {  height: 1140px !important; }
+  .triangle #banner .banner-bg {  height: 700px !important; }
 
-  .triangle #banner .banner-bg-item {  height: 1140px !important; }
+  .triangle #banner .banner-bg-item {  height: 700px !important; }
 
-  .classic #banner {  height: 1200px !important; }
+  .classic #banner {  height: 700px !important; }
 
-  .classic #banner .banner-bg {  height: 1200px !important; }
+  .classic #banner .banner-bg {  height: 700px !important; }
 
-  .classic #banner .banner-bg-item {  height: 1200px !important; }
+  .classic #banner .banner-bg-item {  height: 700px !important; }
 
   /* -------------------------------------------------------------------------
     BANNER-SEARCH

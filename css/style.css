@@ -1745,6 +1745,9 @@ button:hover {
 
 ----------------------------------------------------------------------------- */ 
 .about { padding: 100px 0; }
+@media ( max-width: 480px ) {
+.about{padding: 0px;}
+}
 
 .about .preamble { margin-bottom: 80px; }
 
