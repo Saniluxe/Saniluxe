@@ -30,14 +30,22 @@
   <body class="enable-fixed-header">
 
     <!-- Start Header -->
-    <header id="header" class="triangle" style="height: 600px;">
+    <header id="header" class="triangle" style="height: 700px;">
 
       <!-- Menu toggle Mobile -->
       <label id="toggle" class="toggle"></label>
 
       <!-- Start Banner -->
+<style type="text/css">
+  @media ( max-width: 480px )
+  {
+     video{
+      height: 70vh !important;
+    }
+  }
+</style>
       <div id="banner">
-          <video autoplay muted playsinline loop id="myVideo" data-wf-ignore="true" data-object-fit="cover" style="object-fit: cover;width: 100vw;height: 70vh;">
+          <video autoplay muted playsinline loop id="myVideo" data-wf-ignore="true" data-object-fit="cover" style="object-fit: cover;width: 100vw;height: 100vh;">
           <source src="video.mp4" data-wf-ignore="true" type="video/mp4">
           Your browser does not support video.
         </video>
